@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Storable'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Swift storable protocol.'
   s.homepage         = 'https://github.com/Pircate/Storable'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
