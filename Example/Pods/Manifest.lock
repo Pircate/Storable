@@ -1,0 +1,16 @@
+PODS:
+  - Storable (0.1.0)
+
+DEPENDENCIES:
+  - Storable (from `../`)
+
+EXTERNAL SOURCES:
+  Storable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Storable: a9b5dded29b6cf2a8bf7f586606a452a550cb90f
+
+PODFILE CHECKSUM: cdf90a529175ccb4fe7f15f377f667c24487efe4
+
+COCOAPODS: 1.7.3
